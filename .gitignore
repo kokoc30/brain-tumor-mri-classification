@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Project data and outputs
+data/
+cleaned/
+
+# Trained model & plots
+*.h5
+*.png
+
